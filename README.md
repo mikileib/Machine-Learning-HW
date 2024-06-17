@@ -1,6 +1,4 @@
-# Machine-Learning-HW
-
-# ML Homework Repository
+# Machine Learning HW Repository
 
 This repository contains the homework assignments for the Machine Learning course. Each assignment involves building and evaluating machine learning models using different datasets. Below are the details for each assignment.
 
